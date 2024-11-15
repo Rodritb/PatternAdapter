@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Adapter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AFDA0B99-CBC5-4B62-8790-96BEFF2BEF22}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Adapter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AdapterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8196349B-5958-4758-B1CB-205642F97D30}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Adapter">
+      <UniqueIdentifier>{48D2494E-F6D9-4121-AE91-4DDA15172FD3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Adapter\Adapter.Build.cs">
+      <Filter>Source\Adapter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Adapter\Adapter.cpp">
+      <Filter>Source\Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Adapter\Adapter.h">
+      <Filter>Source\Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Adapter\AdapterCharacter.cpp">
+      <Filter>Source\Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Adapter\AdapterCharacter.h">
+      <Filter>Source\Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Adapter\AdapterGameMode.cpp">
+      <Filter>Source\Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Adapter\AdapterGameMode.h">
+      <Filter>Source\Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Adapter\AdapterInterface.cpp">
+      <Filter>Source\Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Adapter\AdapterInterface.h">
+      <Filter>Source\Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Adapter\EnemyAdapter.cpp">
+      <Filter>Source\Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Adapter\EnemyAdapter.h">
+      <Filter>Source\Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Adapter\PowerFullEnemy.cpp">
+      <Filter>Source\Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Adapter\PowerFullEnemy.h">
+      <Filter>Source\Adapter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

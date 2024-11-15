@@ -1,0 +1,15 @@
+F:\DonkeyKong_SIS457\Adapter\Intermediate\Build\Win64\UE4Editor\Development\Adapter\Definitions.Adapter.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\DonkeyKong_SIS457\Adapter\Source\Adapter/AdapterGameMode.h
+F:\DonkeyKong_SIS457\Adapter\Source\Adapter\EnemyAdapter.h
+F:\DonkeyKong_SIS457\Adapter\Source\Adapter\AdapterInterface.h
+F:\DonkeyKong_SIS457\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\AdapterInterface.generated.h
+F:\DonkeyKong_SIS457\Adapter\Source\Adapter\PowerFullEnemy.h
+F:\DonkeyKong_SIS457\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\PowerFullEnemy.generated.h
+F:\DonkeyKong_SIS457\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\EnemyAdapter.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\DonkeyKong_SIS457\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\AdapterGameMode.generated.h
